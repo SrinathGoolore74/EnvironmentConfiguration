@@ -19,7 +19,7 @@ echo checkout git repos
 #     echo "************ Checking out $config from $1 branch"
 #     #lconfig=`echo "$config" | awk '{ print tolower($1) }'`
 #     #git clone git@github.pie.apple.com:aos-config/$lconfig.git $config -b $1
-git clone https://github.com/SrinathGoolore74/kube-example.git
+git clone https://github.com/SrinathGoolore74/EnvironmentConfiguration.git
 # done
 
 # echo put config repo directories to s3 bucket
