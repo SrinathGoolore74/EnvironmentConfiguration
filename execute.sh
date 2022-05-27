@@ -11,7 +11,6 @@ echo list buckets
 
 echo repo list
 #configs=( "kube-example" )
-#configs=("environmentconfiguration" "addressformatconfiguration" "analyticsconfiguration" "bootstrap" "cartconfiguration" "chatconfiguration" "checkoutconfiguration" "commonconfiguration" "communityconfiguration" "contentconfiguration" "customercommsconfiguration" "digitalassetconfiguration" "experiencemanagerconfiguration" "feedappconfiguration" "FrontendCoversConfiguration" "infrastructureconfiguration" "ireserveconfiguration" "marketingconfiguration" "mobileconfiguration" "monitoringconfiguration" "offerconfiguration" "omnitureconfiguration" "orderingconfiguration" "orderprocessorconfiguration" "orderstatusconfiguration" "paymentconfiguration" "Forkplatformconfiguration" "productcentralconfiguration" "sapshippingconfiguration" "secretconfiguration" "shippingconfiguration" "tradeupconfiguration" "uberconfiguration")
 
 echo checkout git repos
 # for config in "${configs[@]}"
